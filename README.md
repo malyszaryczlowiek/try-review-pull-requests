@@ -18,6 +18,7 @@ _Collaborate and work together on GitHub._
   Do not use quotes on the <details> tag attributes.
 -->
 
+
 <!--step0
 
 All great projects start with collaboration. Pull requests are the foundation of teamwork on GitHub — and pull request reviews give you the ability to work together and discuss changes specific to a pull request by commenting, requesting changes, or approving.
@@ -39,6 +40,7 @@ All great projects start with collaboration. Pull requests are the foundation of
 3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
 
 endstep0-->
+
 
 <!--
   <<< Author notes: Step 1 >>>
